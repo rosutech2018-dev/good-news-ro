@@ -17,8 +17,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          submodules: true
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -42,6 +40,7 @@ jobs:
           app_location: "/"
           output_location: "dist/portal/browser"
           skip_app_build: true
+          skip_api_build: true
 
   close_pull_request:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
