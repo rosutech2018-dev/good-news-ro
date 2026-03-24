@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "educatie",
+    "label": "Educatie",
+    "description": "Progres in accesul la educatie, calitatea scolilor si inovatii pedagogice din toata Romania.",
+    "icon": "🎓",
+    "color": "educatie"
+  },
+  {
+    "slug": "sanatate",
+    "label": "Sanatate",
+    "description": "Imbunatatiri in sistemul medical, sanatate preventiva si povesti de succes din spitale si clinici.",
+    "icon": "🏥",
+    "color": "sanatate"
+  },
+  {
+    "slug": "infrastructura",
+    "label": "Infrastructura",
+    "description": "Drumuri, poduri, retele de apa, transport public si urbanism — Romania care se modernizeaza.",
+    "icon": "🏗️",
+    "color": "infrastructura"
+  },
+  {
+    "slug": "energie",
+    "label": "Energie & Mediu",
+    "description": "Tranzitie energetica, regenerabile, eficienta si protectia naturii in Romania.",
+    "icon": "⚡",
+    "color": "energie"
+  },
+  {
+    "slug": "economie",
+    "label": "Economie",
+    "description": "Antreprenoriat, locuri de munca, inovatie si crestere economica sustenabila.",
+    "icon": "📈",
+    "color": "economie"
+  },
+  {
+    "slug": "stiinta",
+    "label": "Stiinta & Tech",
+    "description": "Cercetare, descoperiri, startup-uri tech si digitalizare in Romania.",
+    "icon": "🔬",
+    "color": "stiinta"
+  },
+  {
+    "slug": "societate",
+    "label": "Societate",
+    "description": "Comunitate, cultura, voluntariat, incluziune si coeziune sociala.",
+    "icon": "🤝",
+    "color": "societate"
+  }
+]

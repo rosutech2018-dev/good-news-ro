@@ -1,0 +1,140 @@
+[
+  {
+    "id": "gm-001",
+    "slug": "model-after-school-abandon-scolar",
+    "title": "Program After-School cu masa calda pentru reducerea abandonului scolar",
+    "summary": "Model complet de program after-school combinat cu sprijin social care a redus abandonul cu 78% la Scoala nr. 12 Bacau. Replicabil in orice scoala cu profil dezavantajat.",
+    "category": "educatie",
+    "categoryLabel": "Educatie",
+    "county": "Bacau",
+    "scale": "localitate",
+    "impact": "Abandon scolar redus cu 78% in 3 ani. 240 de elevi retinuti in sistem.",
+    "howItWorked": [
+      "Analiza cauzelor reale ale abandonului prin interviuri cu familiile si psihologul scolar",
+      "Lansarea programului after-school zilnic (14:00-18:00) cu teme, activitati si o masa calda",
+      "Parteneriat cu 3 firme locale pentru finantarea pe 3 ani a mesei si rechizitelor",
+      "Vizite la domiciliu ale psihologului pentru familiile vulnerabile si parinti plecati in strainatate",
+      "Sistem de monitorizare lunara a frecventei cu interventie imediata la primele absente"
+    ],
+    "resources": "Spatiu after-school (sala existenta), 2 educatori, 1 psiholog, finantare pentru mese calde (~15 lei/elev/zi), rechizite. Cost anual estimat: 85.000-120.000 lei pentru 60 de elevi.",
+    "contact": "Scoala nr. 12 Bacau — directoare Elena Ionescu — scoala12bacau@edu.ro",
+    "replicatedIn": 7,
+    "articleSlug": "scoala-din-bacau-eliminat-abandonul-scolar",
+    "date": "2026-02-18"
+  },
+  {
+    "id": "gm-002",
+    "slug": "model-liste-asteptare-sms-spital",
+    "title": "Sistem SMS de confirmare programari pentru eliminarea listelor de asteptare",
+    "summary": "Model simplu si ieftin de reducere a listelor de asteptare chirurgicale prin SMS de confirmare cu 48h inainte si redistribuire automata a locurilor libere. Implementat la Spitalul Judetean Cluj.",
+    "category": "sanatate",
+    "categoryLabel": "Sanatate",
+    "county": "Cluj",
+    "scale": "oras",
+    "impact": "Timp de asteptare de la 6 luni la 3 saptamani. 1.200 operatii suplimentare/an.",
+    "howItWorked": [
+      "Analiza datelor: identificarea ca 40% din intervale se pierd din cauza neprezentarilor fara anunt",
+      "Implementarea unui sistem simplu de SMS automat cu 48h inainte de operatie, cu cerere de confirmare",
+      "Configurarea redistribuirii automate a locurilor confirmate ca libere catre pacientii aflati pe lista",
+      "Reorganizarea blocului operator pentru 4 operatii simultane fata de 2 anterioare",
+      "Monitorizare saptamanala a ratei de prezentare si ajustarea intervalelor de programare"
+    ],
+    "resources": "Software de programari cu modul SMS (cost: 35.000-50.000 lei), integrare cu baza de date a spitalului, operator pentru monitorizare (0.5 norma). ROI: recuperat in prima luna.",
+    "contact": "Spitalul Clinic Judetean de Urgenta Cluj-Napoca — Dr. Mircea Dumitrescu — ortopedie@spitalcluj.ro",
+    "replicatedIn": 3,
+    "articleSlug": "spital-cluj-lista-asteptare-zero",
+    "date": "2026-02-10"
+  },
+  {
+    "id": "gm-003",
+    "slug": "model-energie-solara-comunitara-rurala",
+    "title": "Retea fotovoltaica comunitara rurala cu stocare partajata",
+    "summary": "Model de electrificare solara integrala a unei comune rurale prin panouri individuale pe acoperisuri conectate la o mini-retea comunitara cu baterii partajate. Prima implementare: Vadu Moldovei, Suceava.",
+    "category": "energie",
+    "categoryLabel": "Energie & Mediu",
+    "county": "Suceava",
+    "scale": "localitate",
+    "impact": "Factura electrica: de la 280 lei la 38 lei/luna. CO2 evitat: 380 tone/an.",
+    "howItWorked": [
+      "Consultarea tuturor gospodariilor si obtinerea acordului de 100% (conditie pentru coeziunea retelei)",
+      "Accesarea programului european de tranzitie energetica rurala — cerere de finantare 85% EU, 15% judet",
+      "Montarea a 4-6 panouri per gospodarie pe acoperisuri existente, fara modificari structurale",
+      "Constructia centralei de stocare comunitare (baterii litiu) si a mini-retelei de distributie locala",
+      "Formarea unui comitet local de administrare a retelei si a fondului de intretinere"
+    ],
+    "resources": "Finantare principala din programe europene (RRF, PNRR sau fonduri structurale). Cost total pentru 400 gospodarii: 1,2-1,6M euro. Conditie: acordul primariei si al tuturor gospodariilor participante.",
+    "contact": "Primaria Vadu Moldovei — Primar Gheorghe Timofte — primaria.vadumoldovei@cjsuceava.ro",
+    "replicatedIn": 2,
+    "articleSlug": "sat-suceava-alimentat-solar",
+    "date": "2026-02-05"
+  },
+  {
+    "id": "gm-004",
+    "slug": "model-integrare-autism-gradinite-masa",
+    "title": "Integrarea copiilor cu TSA in gradinite de masa prin terapeuti ABA dedicati",
+    "summary": "Model de incluziune educationala precoce pentru copiii cu tulburari din spectrul autist prin plasarea terapeutilor ABA direct in grupele de masa. Implementat in 28 de gradinite din Timisoara.",
+    "category": "educatie",
+    "categoryLabel": "Educatie",
+    "county": "Timis",
+    "scale": "oras",
+    "impact": "320 copii cu TSA integrati. 95% au atins nivelul standard pentru scoala primara.",
+    "howItWorked": [
+      "Cartografierea copiilor cu TSA din oras prin colaborare cu medicii pediatri si DSP",
+      "Angajarea terapeutilor ABA certificati (1 terapeut la 4-5 copii cu TSA) cu contract CFL cu primaria",
+      "Formare de 80 ore a educatoarelor din gradinitele participante in comunicare adaptata si tehnici ABA de baza",
+      "Crearea planului individual de interventie pentru fiecare copil, actualizat trimestrial",
+      "Evaluare independenta la 6 si 12 luni cu instrumente standardizate (ADOS-2, Vineland)"
+    ],
+    "resources": "Cost lunar per copil: ~1.200 lei (terapeut ABA 4h/zi). Finantare: buget local + fonduri europene FSE. Conditie: colaborare cu gradinitele de masa dispuse sa participe.",
+    "contact": "Primaria Timisoara — Directia Asistenta Sociala — incluziune@primariatimisoara.ro",
+    "replicatedIn": 5,
+    "articleSlug": "gradinite-timisoara-integrare-autism",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "gm-005",
+    "slug": "model-mediatori-sanitari-vaccinare",
+    "title": "Program de mediatori sanitari comunitari pentru cresterea ratei de vaccinare",
+    "summary": "Model de angajare a mediatorilor sanitari din interiorul comunitatilor izolate care inlatura barierele practice ale accesului la vaccinare. Implementat in 24 comune din Olt, rata crescuta de la 42% la 85%.",
+    "category": "sanatate",
+    "categoryLabel": "Sanatate",
+    "county": "Olt",
+    "scale": "judet",
+    "impact": "Vaccinare 42% → 85%. Focare rujeola: zero. 18.000 copii protejati.",
+    "howItWorked": [
+      "Identificarea barierelor reale prin focus grupuri in comunitati: transport, lipsa documente, neincredere, dezinformare",
+      "Recrutarea mediatorilor din comunitatile vizate (preferabil cu copii proprii vaccinati) si formare de 160 ore",
+      "Vizite sistematice la domiciliu pentru fiecare copil nevaccinat: informare, programare, escorta la cabinet",
+      "Colaborare cu cabinetele medicale rurale pentru zile de vaccinare cu program extins si transport asigurat",
+      "Monitorizare lunara a ratelor si interventie suplimentara in zonele cu progres lent"
+    ],
+    "resources": "1 mediator la ~500 familii, salariu mediator: 3.500-4.000 lei/luna, transport (autovehicul sau decontare), materiale informative. Finantare posibila: MS, fonduri structurale, UNICEF.",
+    "contact": "DSP Olt — Dr. Nicoleta Draghici — dsp.olt@ms.ro",
+    "replicatedIn": 4,
+    "articleSlug": "mediatori-sanatate-olt-vaccinare",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "gm-006",
+    "slug": "model-liceu-dual-parteneriat-firme",
+    "title": "Liceu tehnologic dual cu angajament contractual de angajare — 100% rata plasarii",
+    "summary": "Model de educatie duala cu parteneriat real (nu formal) cu companii locale: burse, instruire la locul de munca si angajament scris de angajare. Implementat la Liceul Aurel Vlaicu Orastie.",
+    "category": "educatie",
+    "categoryLabel": "Educatie",
+    "county": "Hunedoara",
+    "scale": "localitate",
+    "impact": "100% angajare pe 3 ani consecutivi. Salariu mediu la angajare: 4.200 lei.",
+    "howItWorked": [
+      "Identificarea companiilor locale cu deficit de forta de munca calificata si deschidere spre parteneriat real",
+      "Negocierea unui contract bilateral cu obligatii clare: firma plateste bursa 800 lei/luna din clasa X, trimite instructor in scoala saptamanal",
+      "Elevii petrec 3 zile/saptamana la firma partenera din clasa a X-a (nu stagii ocazionale — prezenta regulata)",
+      "Compania are angajament scris de angajare a minimum 70% din elevii cu care a lucrat, verificat anual",
+      "Evaluare comuna a competentelor la finalul anului de firma partenera si de escola, cu feedback integrat in curricula"
+    ],
+    "resources": "Esentialmente resurse existente + vointa directorului de a negocia contracte reale. Bursa companiei (800 lei/elev/luna) este deductibila fiscal. Investitie initiala a scolii: zero.",
+    "contact": "Liceul Tehnologic Aurel Vlaicu Orastie — Director Petru Bota — liceuvlaicu.orastie@isjhd.ro",
+    "replicatedIn": 3,
+    "articleSlug": "liceu-dual-hunedoara-angajare-garantata",
+    "date": "2026-01-18"
+  }
+]
