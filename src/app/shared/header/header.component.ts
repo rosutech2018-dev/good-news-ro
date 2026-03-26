@@ -51,6 +51,9 @@ import { CommonModule } from '@angular/common';
           &:hover, &.active { color: var(--color-primary); background: rgba(46,125,82,0.06); }
         }
         .btn--sm { padding: 7px 16px; font-size: 0.85rem; margin-left: 8px; }
+        .btn--primary { background: var(--color-primary); color: #fff;
+          &:hover { background: var(--color-primary-dark); color: #fff; }
+        }
       }
       &__burger { display: none; flex-direction: column; gap: 5px; background: none; border: none; cursor: pointer; padding: 4px;
         span { display: block; width: 24px; height: 2px; background: var(--color-text); border-radius: 2px; transition: all 0.2s; }
